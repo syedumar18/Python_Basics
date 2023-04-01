@@ -1,0 +1,6 @@
+one = input("Enter the number: ")
+result = int (one) + 3
+res2 = int (result) * 2
+res3 = int (res2) - 4
+res4 = int (res3) + 3
+print("The calculated result is:" , res4)
